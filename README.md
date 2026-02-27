@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou a Maria Isabel ✨
 
-<!--
-**belzinhay/belzinhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ☁️ Sobre
+Sou apaixonada por tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌿 Estudando: **Ciência da Computação**
+- 📍 Localização: **Rio de Janeiro/Rj**
+- ☕ Café & Código
+
+---
+
+### 🛠️ Tech Stack
+`JavaSript` • `TypeScript` • `PHP` • `JAVA` • `Node.js` • `Python` • `MySQL`
+
+---
+
+### 📫 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/belzinhay) • [Instagram]([instagram.com/crfbel])
+
+---
+<p align="center">✨ <i>Keep it simple.</i></p>
